@@ -1,9 +1,9 @@
 body{
-    background-color: bisque;
+    background-color: beige;
 }
-h1 {
-    text-align: center;color: black;
+h1{
+    text-align: center; color: grey;
 }
 p{
-    text-align: center;color: darkslategray;
+    text-align: center; color: black;
 }
